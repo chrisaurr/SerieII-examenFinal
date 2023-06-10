@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "248588473405",
+    "firebase_url": "https://dbfirebase-54c52-default-rtdb.firebaseio.com",
+    "project_id": "dbfirebase-54c52",
+    "storage_bucket": "dbfirebase-54c52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248588473405:android:b0c6fc22fc0fb02a824654",
+        "android_client_info": {
+          "package_name": "com.example.firebaseexamen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248588473405-u7tgbs8p0qlu3qvfie2r8lk3utjifq70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPKaQH5atJFiLhZeFrJ3daaKGlFvWPIUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248588473405-u7tgbs8p0qlu3qvfie2r8lk3utjifq70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
